@@ -4,7 +4,7 @@ import base64
 import openai
 import requests
 
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 prs=''
 root = tk.Tk()
 root.title("Real Estate Price Predictor")
